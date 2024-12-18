@@ -1,0 +1,7 @@
+{
+    "arduino_port": "/dev/arduino",
+    "baud_rate": 9600,
+    "camera_index": "/dev/video2",
+    "weight_scale_port": "/dev/weight_machine",
+    "image_directory":"camera_module/captured_images"
+}

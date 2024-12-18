@@ -1,0 +1,6 @@
+{
+    "food_model": "detection_engine/model/food-seg-250-epoch-2k.pt",
+    "food_model_raw_image_dir":"food_model/raw_image/",
+    "food_model_annoatation_dir":"detection_engine/food_model/annotated_image"
+   
+}
